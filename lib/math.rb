@@ -7,11 +7,11 @@ def addition(num1, num2)
 end
 
 
-# # subtraction - Build the method subtraction that subtracts num1 from num2 and returns the result of this calculation
+# subtraction - Build the method subtraction that subtracts num1 from num2 and returns the result of this calculation
 
-# def subtraction(num1, num2)
+def subtraction(num1, num2)
 
-# end
+end
 
 
 
