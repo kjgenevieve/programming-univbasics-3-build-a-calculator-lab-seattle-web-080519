@@ -26,7 +26,7 @@ end
 # modulo - Build the method modulo that divides num1 into num2 and gives us the remainder of this calculation
 
 def modulo(num1, num2)
-  remainder = num1 / num2
+  remainder = num1 % num2
   p remainder
 end
 
