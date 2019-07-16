@@ -30,6 +30,6 @@ end
 
 # square_root -- Build the method square_root that finds the square root of num and returns the result
 def square_root(num)
-  result = 
+  result = Math.sqrt(num)
   p result
 end
