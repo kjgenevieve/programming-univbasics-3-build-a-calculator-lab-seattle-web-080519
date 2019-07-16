@@ -22,17 +22,14 @@ def multiplication(num1, num2)
   p product
 end
 
-
 # modulo - Build the method modulo that divides num1 into num2 and gives us the remainder of this calculation
-
 def modulo(num1, num2)
   remainder = num1 % num2
   p remainder
 end
 
-
-
-# # square_root -- Build the method square_root that finds the square root of num and returns the result
-# def square_root(num)
-
-# end
+# square_root -- Build the method square_root that finds the square root of num and returns the result
+def square_root(num)
+  result = 
+  p result
+end
