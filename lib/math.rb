@@ -20,20 +20,20 @@ end
 # # division - Build the method division that divides num1 into num2 and returns the result of this calculation
 
 # def division(num1, num2)
-quotient
+# quotient
 # end
 
 
 # # multiplication - Build the method multiplication that multiplies num1 from num2 and returns the result of this calculation
 # def multiplication(num1, num2)
-product
+# product
 # end
 
 
 # # modulo - Build the method modulo that divides num1 into num2 and gives us the remainder of this calculation
 
 # def modulo(num1, num2)
-remainder
+# remainder
 # end
 
 
