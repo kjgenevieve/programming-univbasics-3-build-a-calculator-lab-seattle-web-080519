@@ -1,23 +1,43 @@
+# addition - Build the method addition that adds num1 to num2 and returns the result of this calculation
+
 def addition(num1, num2)
-
+  sum = num1 +num2
+  puts sum
+  return sum
 end
 
-def subtraction(num1, num2)
 
-end
+# # subtraction - Build the method subtraction that subtracts num1 from num2 and returns the result of this calculation
 
-def division(num1, num2)
+# def subtraction(num1, num2)
 
-end
+# end
 
-def multiplication(num1, num2)
 
-end
 
-def modulo(num1, num2)
 
-end
+# # division - Build the method division that divides num1 into num2 and returns the result of this calculation
 
-def square_root(num)
+# def division(num1, num2)
 
-end
+# end
+
+
+# # multiplication - Build the method multiplication that multiplies num1 from num2 and returns the result of this calculation
+# def multiplication(num1, num2)
+
+# end
+
+
+# # modulo - Build the method modulo that divides num1 into num2 and gives us the remainder of this calculation
+
+# def modulo(num1, num2)
+
+# end
+
+
+
+# # square_root -- Build the method square_root that finds the square root of num and returns the result
+# def square_root(num)
+
+# end
