@@ -27,7 +27,7 @@ end
 
 def modulo(num1, num2)
   remainder = num1 / num2
-  p remainder.float
+  p remainder.to_float
 end
 
 
